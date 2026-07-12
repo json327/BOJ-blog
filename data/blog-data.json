@@ -1,0 +1,23 @@
+{
+  "diary": [],
+  "projects": [],
+  "links": [],
+  "comments": [],
+  "drafts": [],
+  "identity": {
+    "did": "did:web:bojji.blog",
+    "name": "波吉的勇气日记",
+    "created": "2026-07-12",
+    "updated": "2026-07-12",
+    "version": "2.6.3",
+    "license": "CC BY-NC-SA 4.0"
+  },
+  "changelog": [],
+  "post_views": {},
+  "reactions": {},
+  "global_vars": {},
+  "sync": {
+    "lastSync": "",
+    "version": "2.6.3"
+  }
+}
