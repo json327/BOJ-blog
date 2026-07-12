@@ -1,23 +1,498 @@
 {
-  "diary": [],
-  "projects": [],
-  "links": [],
-  "comments": [],
+  "diary": [
+    {
+      "id": 1,
+      "date": "2026-07-11",
+      "title": "今天和波吉一样勇敢",
+      "summary": "早上出门时下着雨，但我想起波吉面对巨人的样子…",
+      "category": "日常",
+      "views": 157,
+      "status": "published",
+      "tags": [
+        "勇气",
+        "日常",
+        "波吉"
+      ],
+      "pinned": true,
+      "reading_time": 2,
+      "word_count": 320,
+      "full": "<p>早上出门时下着雨，但我想起波吉面对巨人的样子，就撑着伞冲进了雨里。结果到公司发现……今天放假！不过没关系，我买到了卡克同款黑面包。</p><p>坐在公园长椅上，我咬了一口面包，虽然有点硬，但心里暖暖的。我想，波吉和卡克一定也经常这样分享食物吧。</p><div class=\"post-char-deco\">👑 🖤</div><h2>勇气是什么？</h2><p>波吉教会我，勇气不是不害怕，而是害怕也要往前走。就像今天我面对大雨，其实有点想退缩，但想到波吉面对巨人时那双坚定的眼睛，我就觉得——这点雨算什么！</p>"
+    },
+    {
+      "id": 2,
+      "date": "2026-07-09",
+      "title": "卡克教会我的事",
+      "summary": "朋友最近很沮丧，我给他讲卡克的故事——即使被全世界抛弃，依然选择相信波吉。",
+      "category": "感悟",
+      "views": 203,
+      "status": "published",
+      "tags": [
+        "卡克",
+        "信任",
+        "友情"
+      ],
+      "pinned": false,
+      "reading_time": 2,
+      "word_count": 280,
+      "full": "<p>朋友最近因为工作压力很沮丧，我给他讲卡克的故事——即使被全世界抛弃，依然选择相信波吉。他听完笑了，说\"你真是个奇怪的朋友\"，但我知道他好多了。</p><p>其实，卡克教会我的不是忍耐，而是选择。在黑暗中选择光明，在孤独中选择陪伴。</p><div class=\"post-char-deco\">🖤 👑</div><h2>关于信任</h2><p>卡克曾经被背叛过很多次，但他还是选择了相信波吉。这需要多大的勇气啊！</p>"
+    },
+    {
+      "id": 3,
+      "date": "2026-07-07",
+      "title": "森林里的秘密基地",
+      "summary": "在公园找到一棵大树，树洞里有小松鼠藏的橡果。我放了一颗糖果进去。",
+      "category": "日常",
+      "views": 89,
+      "status": "published",
+      "tags": [
+        "自然",
+        "日常",
+        "童话"
+      ],
+      "pinned": false,
+      "reading_time": 1,
+      "word_count": 180,
+      "full": "<p>在公园闲逛时，我发现一棵老橡树，树干上有个小洞，里面藏着几颗橡果，大概是松鼠的存粮。我想起波吉和卡克在树洞里分享食物的画面，于是悄悄放了一颗水果糖进去，算是给森林的小礼物。</p><p>第二天我特意绕路去看，糖果不见了，但多了两片好看的羽毛。这大概是森林给我的回信吧。</p><div class=\"post-char-deco\">🍃 🌟</div>"
+    },
+    {
+      "id": 4,
+      "date": "2026-07-05",
+      "title": "画了波吉的肖像",
+      "summary": "今天用彩铅画了波吉，虽然画得歪歪扭扭，但配上他标志性的\"OωO\"表情，意外地可爱。",
+      "category": "创作",
+      "views": 112,
+      "status": "published",
+      "tags": [
+        "绘画",
+        "波吉",
+        "创作"
+      ],
+      "pinned": false,
+      "reading_time": 1,
+      "word_count": 150,
+      "full": "<p>今天用彩铅画了波吉，虽然画得歪歪扭扭，但配上他标志性的\"OωO\"表情，意外地可爱。我特意用了暖黄色和棕色，想画出他温柔的气质。</p><p>画完我就把它挂在书桌前，每次抬头看见波吉呆呆的笑脸，就觉得自己也被治愈了。</p><div class=\"post-char-deco\">🎨 👑</div>"
+    },
+    {
+      "id": 5,
+      "date": "2026-07-03",
+      "title": "夜晚的星星像王冠",
+      "summary": "睡不着时数星星，突然发现有一颗特别亮，像是波吉王冠上的宝石。",
+      "category": "感悟",
+      "views": 67,
+      "status": "published",
+      "tags": [
+        "星星",
+        "夜晚",
+        "治愈"
+      ],
+      "pinned": false,
+      "reading_time": 1,
+      "word_count": 160,
+      "full": "<p>今晚辗转难眠，干脆走到窗边看星星。城市的光污染让星星变得稀疏，但有一颗特别亮，在东南方向，闪烁着温暖的光。</p><p>我忽然觉得它像波吉王冠上的那颗宝石——虽然渺小，却格外耀眼。我对着它许了个愿：希望所有人都能像波吉一样，被温柔以待，也都能拥有自己的\"卡克\"。</p><div class=\"post-char-deco\">🌙 ✨</div>"
+    },
+    {
+      "id": 6,
+      "date": "2026-07-01",
+      "title": "重温动画第一集",
+      "summary": "每次看波吉在竞技场上被打倒又站起来，还是会哭。这次拉着妹妹一起看，她说\"他好勇敢\"。",
+      "category": "动漫",
+      "views": 245,
+      "status": "published",
+      "tags": [
+        "国王排名",
+        "波吉",
+        "动漫"
+      ],
+      "pinned": false,
+      "reading_time": 2,
+      "word_count": 250,
+      "full": "<p>今天拉着妹妹一起重温《国王排名》第一集。当波吉一次又一次被巨人打倒又爬起来时，我还是忍不住红了眼眶。</p><p>妹妹转头问我：\"为什么他这么弱还要挑战？\"我愣了一下，然后说：\"因为勇气不是因为强大，而是因为不想放弃。波吉虽然听不见也说不出，但他用行动告诉我们——真正的强大，是即使害怕也要往前走。\"</p><p>妹妹似懂非懂地点点头，但我看到她眼里有光。</p><div class=\"post-char-deco\">📚 👑</div>"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "icon": "📖",
+      "title": "《勇气集》小书",
+      "desc": "一本收录了100个「像波吉一样勇敢」的瞬间的电子小书。",
+      "status": "completed",
+      "statusLabel": "✅ 已完成",
+      "tech": [
+        "写作",
+        "插画"
+      ],
+      "category": "创作",
+      "link": "#",
+      "stats": "已发布 3 个月"
+    },
+    {
+      "id": 2,
+      "icon": "🎨",
+      "title": "波吉的每日速写",
+      "desc": "从2026年1月1日开始，每天画一幅波吉的速写，至今已画了192幅。",
+      "status": "ongoing",
+      "statusLabel": "⏳ 进行中",
+      "tech": [
+        "绘画",
+        "速写"
+      ],
+      "category": "绘画",
+      "link": "#",
+      "stats": "已坚持 192 天"
+    },
+    {
+      "id": 3,
+      "icon": "🌱",
+      "title": "「温柔时刻」播客",
+      "desc": "一档每周更新的小播客，分享生活中那些温暖的小故事。",
+      "status": "ongoing",
+      "statusLabel": "⏳ 进行中",
+      "tech": [
+        "播客",
+        "音频剪辑"
+      ],
+      "category": "声音",
+      "link": "#",
+      "stats": "12 期 · 累计播放 2.4k"
+    },
+    {
+      "id": 4,
+      "icon": "🖤",
+      "title": "卡克的手语课",
+      "desc": "一套免费的手语入门教程，灵感来自波吉和卡克的无声交流。",
+      "status": "completed",
+      "statusLabel": "✅ 已完成",
+      "tech": [
+        "手语",
+        "教育"
+      ],
+      "category": "教育",
+      "link": "#",
+      "stats": "已帮助 300+ 人学习"
+    },
+    {
+      "id": 5,
+      "icon": "🌟",
+      "title": "星星收集计划",
+      "desc": "一个收集了来自世界各地「愿望」的线上展览。",
+      "status": "ongoing",
+      "statusLabel": "⏳ 进行中",
+      "tech": [
+        "Web开发",
+        "UI设计"
+      ],
+      "category": "创作",
+      "link": "#",
+      "stats": "已收集 567 颗星星"
+    },
+    {
+      "id": 6,
+      "icon": "☕",
+      "title": "波吉主题咖啡馆",
+      "desc": "一个以《国王排名》为主题的快闪咖啡馆企划。",
+      "status": "planning",
+      "statusLabel": "📋 计划中",
+      "tech": [
+        "策划",
+        "餐饮"
+      ],
+      "category": "设计",
+      "link": "#",
+      "stats": "预计 2027 年启动"
+    }
+  ],
+  "links": [
+    {
+      "id": 1,
+      "name": "森之图书馆",
+      "avatar": "🌿",
+      "desc": "一个收藏了各种童话和寓言的小站。",
+      "url": "#",
+      "tags": [
+        "童话",
+        "阅读"
+      ],
+      "category": "阅读",
+      "visits": "2.3k"
+    },
+    {
+      "id": 2,
+      "name": "影子的日记",
+      "avatar": "🖤",
+      "desc": "从卡克的视角写的日记，记录那些说不出口的温柔。",
+      "url": "#",
+      "tags": [
+        "同人",
+        "创作"
+      ],
+      "category": "创作",
+      "visits": "1.8k"
+    },
+    {
+      "id": 3,
+      "name": "勇气补给站",
+      "avatar": "⚔️",
+      "desc": "每天分享一个让人变勇敢的小故事。",
+      "url": "#",
+      "tags": [
+        "励志",
+        "温暖"
+      ],
+      "category": "成长",
+      "visits": "4.2k"
+    },
+    {
+      "id": 4,
+      "name": "星星收集者",
+      "avatar": "🌟",
+      "desc": "一个收集了世界各地「愿望」的博客。",
+      "url": "#",
+      "tags": [
+        "温暖",
+        "愿望"
+      ],
+      "category": "阅读",
+      "visits": "3.7k"
+    },
+    {
+      "id": 5,
+      "name": "波吉的城堡",
+      "avatar": "🏰",
+      "desc": "一个以《国王排名》为主题的同人创作站。",
+      "url": "#",
+      "tags": [
+        "同人",
+        "动漫"
+      ],
+      "category": "创作",
+      "visits": "5.1k"
+    },
+    {
+      "id": 6,
+      "name": "小小手语角",
+      "avatar": "🤟",
+      "desc": "一个推广手语和听障友好的小社区。",
+      "url": "#",
+      "tags": [
+        "手语",
+        "教育"
+      ],
+      "category": "成长",
+      "visits": "890"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "name": "波吉的小粉丝",
+      "avatar": "👑",
+      "time": "2026-07-11 10:32",
+      "text": "好喜欢这个博客！波吉和卡克真的太治愈了 💛"
+    },
+    {
+      "id": 2,
+      "name": "卡克の影子",
+      "avatar": "🖤",
+      "time": "2026-07-10 22:15",
+      "text": "看到卡克的故事真的泪目了。希望每个人都能遇到自己的波吉。"
+    },
+    {
+      "id": 3,
+      "name": "希琳骑士",
+      "avatar": "⚔️",
+      "time": "2026-07-09 16:44",
+      "text": "这里的文字让我想起了第一次看《国王排名》的感动。加油！"
+    }
+  ],
   "drafts": [],
   "identity": {
     "did": "did:web:bojji.blog",
     "name": "波吉的勇气日记",
-    "created": "2026-07-12",
+    "created": "2026-01-01",
     "updated": "2026-07-12",
-    "version": "2.6.3",
+    "version": "2.5.0",
     "license": "CC BY-NC-SA 4.0"
   },
-  "changelog": [],
-  "post_views": {},
+  "changelog": [
+    {
+      "version": "2.5.0",
+      "date": "2026-07-12",
+      "items": [
+        {
+          "type": "fixed",
+          "content": "🐛 修复文章卡片点击后无法显示详情的问题"
+        },
+        {
+          "type": "added",
+          "content": "📖 完善文章详情页展示"
+        },
+        {
+          "type": "added",
+          "content": "📢 版本更新公告系统"
+        },
+        {
+          "type": "enhanced",
+          "content": "优化页面导航逻辑"
+        },
+        {
+          "type": "added",
+          "content": "🌐 全局文字 & 分类配置面板"
+        },
+        {
+          "type": "added",
+          "content": "📜 左侧导航栏增加滚动条"
+        },
+        {
+          "type": "enhanced",
+          "content": "全局自适应缩放布局"
+        }
+      ]
+    },
+    {
+      "version": "2.4.0",
+      "date": "2026-07-11",
+      "items": [
+        {
+          "type": "added",
+          "content": "📊 文章访问统计（本地存储）"
+        },
+        {
+          "type": "added",
+          "content": "📖 文章阅读时长自动计算"
+        },
+        {
+          "type": "added",
+          "content": "📌 文章置顶功能"
+        },
+        {
+          "type": "added",
+          "content": "📑 文章目录（TOC）自动生成"
+        },
+        {
+          "type": "added",
+          "content": "🔤 字体大小控制"
+        },
+        {
+          "type": "added",
+          "content": "📤 文章分享功能"
+        }
+      ]
+    },
+    {
+      "version": "2.3.0",
+      "date": "2026-07-10",
+      "items": [
+        {
+          "type": "added",
+          "content": "🖼️ 图片上传 Base64 存储"
+        },
+        {
+          "type": "added",
+          "content": "🏷️ 文章标签云系统"
+        },
+        {
+          "type": "fixed",
+          "content": "修复草稿编辑标签丢失问题"
+        }
+      ]
+    },
+    {
+      "version": "2.2.0",
+      "date": "2026-07-09",
+      "items": [
+        {
+          "type": "added",
+          "content": "🌓 暗色主题支持"
+        },
+        {
+          "type": "added",
+          "content": "📊 内容日历"
+        },
+        {
+          "type": "added",
+          "content": "📄 草稿箱系统"
+        }
+      ]
+    },
+    {
+      "version": "2.1.0",
+      "date": "2026-07-08",
+      "items": [
+        {
+          "type": "added",
+          "content": "💛 情感反馈（点赞）"
+        },
+        {
+          "type": "added",
+          "content": "💬 评论区系统"
+        },
+        {
+          "type": "added",
+          "content": "🌟 相关文章推荐"
+        }
+      ]
+    },
+    {
+      "version": "2.0.0",
+      "date": "2026-07-07",
+      "items": [
+        {
+          "type": "added",
+          "content": "🚀 博客首发上线"
+        },
+        {
+          "type": "added",
+          "content": "📖 毛玻璃UI设计"
+        },
+        {
+          "type": "added",
+          "content": "🆔 数字身份系统"
+        }
+      ]
+    }
+  ],
+  "post_views": {
+    "1": 1
+  },
   "reactions": {},
-  "global_vars": {},
+  "global_vars": {
+    "siteName": "波吉的勇气日记",
+    "subtitle": "空间叙事",
+    "did": "did:web:bojji.blog",
+    "license": "CC BY-NC-SA 4.0",
+    "heroTitle": "像波吉一样勇敢",
+    "heroDesc": "记录生活中那些微小却闪光的勇气时刻。愿你也能像波吉一样，即使害怕也要往前走。",
+    "recentDiaryTitle": "📝 最近日记",
+    "navHome": "首页",
+    "navDiary": "小日记",
+    "navProjects": "项目",
+    "navLinks": "友链",
+    "navIdentity": "数字身份",
+    "navAbout": "关于",
+    "navChangelog": "更新公告",
+    "navAdmin": "管理",
+    "catDaily": "日常",
+    "catFeel": "感悟",
+    "catCreate": "创作",
+    "catAnime": "动漫",
+    "diaryPageTitle": "📖 小日记 · 勇气档案",
+    "timelineLabel": "⏳ 勇气成长轨迹",
+    "cardViewLabel": "📇 卡片视图",
+    "projectsPageTitle": "🌟 我正在做的事",
+    "linksPageTitle": "🔗 友链 · 温暖的连接",
+    "linkApplyTitle": "🤝 申请友链",
+    "linkApplyDesc": "如果你也有一个温暖的小站，欢迎申请交换友链～",
+    "aboutTitle": "🌿 关于这个空间",
+    "aboutDesc": "这是一个以《国王排名》为主题的毛玻璃童话治愈风空间。记录生活中那些像波吉一样勇敢的瞬间，分享温暖与感动。",
+    "aboutFooter": "✦ 本站使用 毛玻璃 UI + 空间叙事 设计\n✦ 内容基于《国王排名》动画的感动与启发\n✦ 数据主权 · 数字身份 · 开放连接",
+    "changelogDesc": "记录博客每一次迭代的痕迹，让成长有迹可循。",
+    "adminDesc": "管理内容 · 数据自主 · 数字身份",
+    "identityDesc": "你的数据属于你。这里是你在数字世界的身份根节点。",
+    "navManual": "使用手册"
+  },
   "sync": {
-    "lastSync": "",
-    "version": "2.6.3"
+    "lastSync": "2026-07-12T10:06:18.606Z",
+    "version": "2.6.3",
+    "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWeb"
   }
 }
